@@ -11,14 +11,15 @@ Example: <a href='/star/grey/black'> /star/grey/black </a> <br> <br>
 - This syntax uses hex color codes without a #, e.g. 0006db not #0006db. <br>  <br>
 Example: <a href='/hex/star/9c9a9e/000'> /hex/star/9c9a9e/000 </a> <br> <br> <br>
 The following iconTypes are currently available, <br>
-<li> square </li>
-<li> star </li>
-<li> triangle </li>
-<li> diamond </li>
-<br>
+- square 
+- star 
+- triangle 
+- diamond 
+
+
 
 Example server can be found at svg.galenevans.org.
   - svg.galenevans.org/star/blue/green
 
-<br>
+
 Created by Galen Evans, www.galenevans.org. </p>
