@@ -8,12 +8,12 @@ The site uses a RESTful API to return the SVG files using the following syntax. 
 ######COLOR NAMES:
 /:iconType/:borderColorName/:fillColorName <br />
 This syntax uses <a href='http://www.december.com/html/spec/colorsvg.html'> svg named colors </a>  <br />
-Example: <a href='/star/grey/black'> /star/grey/black </a>  <br />
+Example: <a href='http://svg.galenevans.org/star/grey/black'> /star/grey/black </a>  <br />
 
 ######HEX COLOR IDs: <br />
 /hex/:iconType/:borderHexCode/:fillHexCode  <br />
 This syntax uses hex color codes without a #, e.g. 0006db not #0006db.<br />
-Example: <a href='/hex/star/9c9a9e/000'> /hex/star/9c9a9e/000 </a>  <br />
+Example: <a href='http://svg.galenevans.org/hex/star/9c9a9e/000'> /hex/star/9c9a9e/000 </a>  <br />
 
 The following iconTypes are currently available, <br />
 * square 
