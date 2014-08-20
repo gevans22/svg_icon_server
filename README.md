@@ -3,7 +3,7 @@ SVG Icon Server
 
 <h3> An Node.JS map icon SVG server designed for use in CartoCSS point-file:url()'s. </h3> <br>
 <p> Usage: <br>
-The site uses a restful API to return the SVG files using the following syntax. <br> <br>
+The site uses a RESTful API to return the SVG files using the following syntax. <br> <br>
 /:iconType/:borderColorName/:fillColorName <br> 
 - This syntax uses <a href='http://www.december.com/html/spec/colorsvg.html'> svg named colors </a> <br> <br>
 Example: <a href='/star/grey/black'> /star/grey/black </a> <br> <br>
@@ -16,5 +16,9 @@ The following iconTypes are currently available, <br>
 <li> triangle </li>
 <li> diamond </li>
 <br>
+
+Example server can be found at svg.galenevans.org.
+  - svg.galenevans.org/star/blue/green
+
 <br>
 Created by Galen Evans, www.galenevans.org. </p>
