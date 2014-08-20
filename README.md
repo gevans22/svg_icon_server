@@ -1,8 +1,6 @@
 SVG Icon Server
 ===============
 
-A Node.JS server with a API for creating SVG Icons to used in CartoCSS mapping applications 
-
 <h3> An Node.JS map icon SVG server designed for use in CartoCSS point-file:url()'s. </h3> <br>
 <p> Usage: <br>
 The site uses a restful API to return the SVG files using the following syntax. <br> <br>
